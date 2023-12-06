@@ -1,2 +1,2 @@
-<h1> hello Welcome to DevOps !!! Git-jenkins-webapp-tomcat bahabouaicha</h1>
+<h1> hello Welcome to DevOps !!! Git-->Github-->jenkins--> webapp.war--> container Tomcat puis on peut afficher </h1>
 
